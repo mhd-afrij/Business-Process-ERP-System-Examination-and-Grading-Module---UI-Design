@@ -136,18 +136,31 @@ Responsive Design Testing Tools	Ensuring cross-device compatibility
 📱 Responsiveness: Fully functional on both desktop and mobile devices
 
 👩‍💻 Contributors
+
 👨‍🏫 Name	🆔 ID	💼 Contribution
+
 P. Tharshika	32588	Overall wireframe structure & layout
+
 M.B.M. Afrij	34175	Exam registration interface & results page
+
 R.F.M. Fawas	34250	Grading interface & appeals management
+
 E.H.L.T. Ehelapitiya	32788	Dashboard layout & exam scheduling
+
 T.M.N.S. Thilakarathne	32681	Visual design & accessibility features
+
 M.V.S.S. Jayaweera	32398	Mobile responsiveness & UI testing
+
 R.A.K.S. Jayawardhana	32426	Theme integration & design consistency
+
 D.S. Rathnayaka	32647	UX flow & user navigation optimization
+
 U.W.A.Y. Sandaruwan	33031	Component organization & consistency
+
 M.Z. Ahamed	32884	Exam hall allocation & notifications
+
 S. Danushkan	32405	Feedback forms & error handling UI
+
 ⚖️ License
 
 🪪 License:
